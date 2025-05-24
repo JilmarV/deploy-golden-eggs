@@ -1,0 +1,23 @@
+/Config/
+/frontent/
+/backend/
+
+# IntelliJ config
+/.idea/
+
+# Node modules (si usás Angular)
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/build/
+
+# Logs
+*.log
+
+# Environment files
+*.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

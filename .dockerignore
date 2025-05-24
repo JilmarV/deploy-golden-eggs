@@ -1,0 +1,9 @@
+Config/mysql/
+Config/mysql/#innodb_redo
+Config/mysql/*
+*.log
+*.tmp
+*.bak
+node_modules/
+.git/
+
