@@ -56,7 +56,6 @@ run-test:
 validate-pylint:
 	@pylint backend/app/
 
-# Comandos útiles para desarrollo
 logs-frontend:
 	docker compose logs -f frontend
 
